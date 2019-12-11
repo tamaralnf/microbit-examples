@@ -1,6 +1,6 @@
 # microbit-examples
 
-The BBC micro:bit is a miniature programmable computer designed for teaching code through a variety of methods and languges. This repositor contains some basic examples great for demonstrating the features and functions that can be utilized while writing code for the micro:bit in JavaScript.
+The BBC micro:bit is a miniature programmable computer designed for teaching code through a variety of methods and languges. This repository contains some basic examples great for demonstrating the features and functions that can be utilized while writing code for the micro:bit in JavaScript.
 
 ## contents
 * **bob moves:** A simple demonstration of moving a single game sprite, using A and B buttons as input. My students really liked to name sprites Bob.
